@@ -8,7 +8,7 @@
 	}
 	.contact{
 		display: flex;
-		padding-left: 300px;
+		padding-left: 250px;
 	}
 	.contents-item{
 		padding-left: 10px;
@@ -47,7 +47,7 @@
 		padding-right: 50px;
 	}
 	footer p{
-		font-size: 12px;
+		font-size: 10px;
 	}
 }
 
