@@ -1,0 +1,76 @@
+html, body{
+	background-image: url('img/nivea_hijab_newsletter.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: "Century Gothic";
+
+}
+
+/*header*/
+header, img{
+	width: 100%;
+}
+
+/*contents*/
+.contents-item{
+	padding-left: 130px;
+	padding-right: 130px;
+}
+.contents-item p{
+	font-size: 30px;
+	padding-left: 150px;
+	padding-right: 150px;
+	margin-bottom: 40px;
+}
+.btn{
+	padding: 20px 25px;
+	display: inline-block;
+	margin-bottom: 60px;
+}
+p{
+	color: #01176a;
+}
+.click{
+	color: white;
+	border-radius: 30px;
+	background-color: #01176a;
+	font-size: 22px;
+}
+.click:hover{
+	background-color: #fff;
+	color: #01176a;
+}
+.contents-item a{
+	text-decoration: none;
+}
+.contact{
+	width: 200px;
+	display: flex;
+	padding-left: 440px;
+}
+
+/*footer*/
+.footer-left{
+	float: left;
+	width: 50%;
+}
+.footer-right{
+	float: right;
+	width: 40%;
+	margin-left: 0 auto;
+}
+.footer{
+	padding-top: 60px;
+	text-align: center;
+}
+footer{
+	padding-left: 130px;
+	padding-right: 130px;
+
+}
+footer p{
+	font-size: 14px;
+}
+footer a{
+	color: #01176a;
+}
